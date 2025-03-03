@@ -22,7 +22,7 @@ A simple weather app that displays the current weather conditions and forecast f
 - Java Development Kit (JDK)
 
 # Installation
-1. Clone the repository: git clone https://github.com/your-username/WeatherService.git
+1. Clone the repository: git clone https://github.com/Precious-Teffo/WeatherService.git
 2. Install dependencies: npm install
 3. Create a .env file and add your OpenWeatherMap API key: WEATHER_API_KEY=e12d5c3786bb06efb55d9882d554c50
 4. Compile and run the Java API integration code
